@@ -2963,21 +2963,19 @@ class PlayState extends MusicBeatState
 		deathCounter = 0;
 		seenCutscene = false;
 
-		#if ACHIEVEMENTS_ALLOWED
 		if(achievementObj != null) {
 			return;
 		} else {
 			var achieve:String = checkForAchievement(['merell_nomiss', 'pacer_nomiss', 'roadkill_nomiss', 'weekM_nomiss',
 				'spiral_nomiss', 'wreck_nomiss', 'haywire_nomiss', 'weekCT_nomiss',
 				'FF_nomiss', 'hazard_nomiss', 'GOODENDING', 'BADENDING', 'octane_nomiss',
-				'amal_nomiss']);
+				'amal_nomiss','nitrous_nomiss']);
 
 			if(achieve != null) {
 				startAchievement(achieve);
 				return;
 			}
 		}
-		#end
 		
 		#if LUA_ALLOWED
 		var ret:Dynamic = callOnLuas('onEndSong', []);
@@ -3092,7 +3090,6 @@ class PlayState extends MusicBeatState
 		}*/
 	}
 
-	#if ACHIEVEMENTS_ALLOWED
 	var achievementObj:AchievementObject = null;
 	function startAchievement(achieve:String) {
 		achievementObj = new AchievementObject(achieve, camOther);
@@ -3107,7 +3104,6 @@ class PlayState extends MusicBeatState
 			endSong();
 		}
 	}
-	#end
 
 	public function KillNotes() {
 		while(notes.length > 0) {
@@ -3987,6 +3983,7 @@ class PlayState extends MusicBeatState
 	}
 
 	var lastStepHit:Int = -1;
+	var defaultzoom:Float=0.8;
 	override function stepHit()
 	{
 		super.stepHit();
@@ -3998,6 +3995,37 @@ class PlayState extends MusicBeatState
 
 		if(curStep == lastStepHit) {
 			return;
+		}
+		if(curSong.toLowerCase()=='nitrous'){
+			switch(curStep){
+				case 544,704,1184:
+					defaultCamZoom=0.95;
+				case 560,720,1200:
+					defaultCamZoom=1.07;
+				case 1248:
+					defaultCamZoom=1.12;
+				case 577,736,1216:
+					defaultCamZoom=defaultzoom;
+				case 832:
+					FlxTween.tween(FlxG.camera,{zoom:1.1},1.2,{
+						ease:FlxEase.linear,
+						onComplete:function(ghgfdhgf:FlxTween){
+							defaultCamZoom=defaultzoom;
+						}
+					});
+				case 992:
+					FlxG.camera.flash(FlxColor.WHITE,1.8);
+				case 1376:
+					FlxTween.tween(FlxG.camera,{zoom:defaultzoom},1.6,{
+						ease:FlxEase.linear,
+						onComplete:function(ghgfdhgf:FlxTween){
+							defaultCamZoom=defaultzoom;
+						}
+					});
+				case 2607:
+					FlxTween.tween(camHUD,{alpha:0},0.5);
+
+			}
 		}
 
 		lastStepHit = curStep;
@@ -4224,89 +4252,92 @@ class PlayState extends MusicBeatState
 		setOnLuas('ratingFC', ratingFC);
 	}
 
-	#if ACHIEVEMENTS_ALLOWED
 	private function checkForAchievement(achievesToCheck:Array<String> = null):String
-	{
-		if(chartingMode) return null;
-
-		var usedPractice:Bool = (ClientPrefs.getGameplaySetting('practice', false) || ClientPrefs.getGameplaySetting('botplay', false));
-		for (i in 0...achievesToCheck.length) {
-			var achievementName:String = achievesToCheck[i];
-			if(!Achievements.isAchievementUnlocked(achievementName) && !cpuControlled) {
-				var unlock:Bool = false;
-				switch(achievementName)
-				{
-					case 'weekM_nomiss' | 'weekCT_nomiss':
-						if(isStoryMode && campaignMisses + songMisses < 1 && CoolUtil.difficultyString() == 'HARD' && storyPlaylist.length <= 1 && !changedDifficulty && !usedPractice)
-						{
-							var weekName:String = WeekData.getWeekFileName();
-							switch(weekName) //I know this is a lot of duplicated code, but it's easier readable and you can add weeks with different names than the achievement tag
+		{
+			if(chartingMode) return null;
+	
+			var usedPractice:Bool = (ClientPrefs.getGameplaySetting('practice', false) || ClientPrefs.getGameplaySetting('botplay', false));
+			for (i in 0...achievesToCheck.length) {
+				var achievementName:String = achievesToCheck[i];
+				if(!Achievements.isAchievementUnlocked(achievementName) && !cpuControlled) {
+					var unlock:Bool = false;
+					switch(achievementName)
+					{
+						case 'weekM_nomiss' | 'weekCT_nomiss':
+							if(isStoryMode && campaignMisses + songMisses < 1 && CoolUtil.difficultyString() == 'HARD' && storyPlaylist.length <= 1 && !changedDifficulty && !usedPractice)
 							{
-								case 'merellweek1':
-									if(achievementName == 'weekM_nomiss') unlock = true;
-								case 'merellweek2':
-									if(achievementName == 'weekCT_nomiss') unlock = true;
+								var weekName:String = WeekData.getWeekFileName();
+								switch(weekName) //I know this is a lot of duplicated code, but it's easier readable and you can add weeks with different names than the achievement tag
+								{
+									case 'merellweek1':
+										if(achievementName == 'weekM_nomiss') unlock = true;
+									case 'merellweek2':
+										if(achievementName == 'weekCT_nomiss') unlock = true;
+								}
 							}
-						}
-					case 'merell_nomiss':
-						if(Paths.formatToSongPath(SONG.song) == 'merell' && songMisses < 1 && !usedPractice) {
-							unlock = true;
-						}
-					case 'pacer_nomiss':
-						if(Paths.formatToSongPath(SONG.song) == 'pacer' && songMisses < 1 && !usedPractice) {
-							unlock = true;
-						}
-					case 'roadkill_nomiss':
-						if(Paths.formatToSongPath(SONG.song) == 'roadkill' && songMisses < 1 && !usedPractice) {
-							unlock = true;
-						}
-					case 'spiral_nomiss':
-						if(Paths.formatToSongPath(SONG.song) == 'spiraling' && songMisses < 1 && !usedPractice) {
-							unlock = true;
-						}
-					case 'wreck_nomiss':
-						if(Paths.formatToSongPath(SONG.song) == 'wreckage' && songMisses < 1 && !usedPractice) {
-							unlock = true;
-						}
-					case 'haywire_nomiss':
-						if(Paths.formatToSongPath(SONG.song) == 'haywire' && songMisses < 1 && !usedPractice) {
-							unlock = true;
-						}
-					case 'FF_nomiss':
-						if(Paths.formatToSongPath(SONG.song) == 'funky-feline' && songMisses < 1 && !usedPractice) {
-							unlock = true;
-						}
-					case 'hazard_nomiss':
-						if(Paths.formatToSongPath(SONG.song) == 'hazard' && songMisses < 1 && !usedPractice) {
-							unlock = true;
-						}
-					case 'octane_nomiss':
-						if(Paths.formatToSongPath(SONG.song) == 'octane' && songMisses < 1 && !usedPractice) {
-							unlock = true;
-						}
-					case 'amal_nomiss':
-						if(Paths.formatToSongPath(SONG.song) == 'amalgamation' && songMisses < 1 && !usedPractice) {
-							unlock = true;
-						}
-					case 'GOODENDING':
-						if(Paths.formatToSongPath(SONG.song) == 'haywire' && songShocks < 40 && !usedPractice) {
-							unlock = true;
-						}
-					case 'BADENDING':
-						if(Paths.formatToSongPath(SONG.song) == 'haywire' && songShocks >= 40 && !usedPractice) {
-							unlock = true;
-						}
-				}
-
-				if(unlock) {
-					Achievements.unlockAchievement(achievementName);
-					return achievementName;
+						case 'merell_nomiss':
+							if(Paths.formatToSongPath(SONG.song) == 'merell' && songMisses < 1 && !usedPractice) {
+								unlock = true;
+							}
+						case 'pacer_nomiss':
+							if(Paths.formatToSongPath(SONG.song) == 'pacer' && songMisses < 1 && !usedPractice) {
+								unlock = true;
+							}
+						case 'roadkill_nomiss':
+							if(Paths.formatToSongPath(SONG.song) == 'roadkill' && songMisses < 1 && !usedPractice) {
+								unlock = true;
+							}
+						case 'spiral_nomiss':
+							if(Paths.formatToSongPath(SONG.song) == 'spiraling' && songMisses < 1 && !usedPractice) {
+								unlock = true;
+							}
+						case 'wreck_nomiss':
+							if(Paths.formatToSongPath(SONG.song) == 'wreckage' && songMisses < 1 && !usedPractice) {
+								unlock = true;
+							}
+						case 'haywire_nomiss':
+							if(Paths.formatToSongPath(SONG.song) == 'haywire' && songMisses < 1 && !usedPractice) {
+								unlock = true;
+							}
+						case 'FF_nomiss':
+							if(Paths.formatToSongPath(SONG.song) == 'funky-feline' && songMisses < 1 && !usedPractice) {
+								unlock = true;
+							}
+						case 'hazard_nomiss':
+							if(Paths.formatToSongPath(SONG.song) == 'hazard' && songMisses < 1 && !usedPractice) {
+								unlock = true;
+							}
+						case 'octane_nomiss':
+							if(Paths.formatToSongPath(SONG.song) == 'octane' && songMisses < 1 && !usedPractice) {
+								unlock = true;
+							}
+						case 'amal_nomiss':
+							if(Paths.formatToSongPath(SONG.song) == 'amalgamation' && songMisses < 1 && !usedPractice) {
+								unlock = true;
+							}
+						case 'nitrous_nomiss':
+							if(Paths.formatToSongPath(SONG.song) == 'nitrous' && songMisses < 1 && !usedPractice) {
+								unlock = true;
+							}
+						case 'GOODENDING':
+							if(Paths.formatToSongPath(SONG.song) == 'haywire' && songShocks < 40 && !usedPractice) {
+								unlock = true;
+							}
+						case 'BADENDING':
+							if(Paths.formatToSongPath(SONG.song) == 'haywire' && songShocks >= 40 && !usedPractice) {
+								unlock = true;
+							}
+					}
+	
+					if(unlock) {
+						Achievements.unlockAchievement(achievementName);
+						return achievementName;
+					}
 				}
 			}
+			return null;
 		}
-		return null;
-	}
-	#end
+	
 
 	var curLight:Int = 0;
 	var curLightEvent:Int = 0;

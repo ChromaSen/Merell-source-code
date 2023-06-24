@@ -17,7 +17,7 @@ function onCreate()
 
 	addLuaSprite('BG', false);
 	
-	makeAnimatedLuaSprite('MLeg', 'nitrousbg/octane/Merell Leg', 140, 570);
+	makeAnimatedLuaSprite('MLeg', 'octane/Merell Leg', 140, 570);
 	addAnimationByPrefix('MLeg', 'idle', 'Leg Anim', 24, true);
 	scaleObject('MLeg', 1.15, 1.15);
 	objectPlayAnimation('MLeg', 'idle', 'true');

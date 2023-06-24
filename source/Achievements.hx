@@ -25,6 +25,7 @@ class Achievements {
 		["BAD ENDING",		"Beat Haywire while hitting over 15% of EMP notes on Hard.",				'BADENDING',			 false],
 		["Victory Lap",		"Beat Octane On Hard with no Misses.",				'octane_nomiss',			 true],
 		["Fixing your mistake",		"Beat Amalgamation On Hard with no Misses.",				'amal_nomiss',			 true],
+		["N²Owned", "Beat Nitrous on Hard with no Misses", "nitrous_nomiss",false]
 	];
 	public static var achievementsMap:Map<String, Bool> = new Map<String, Bool>();
 

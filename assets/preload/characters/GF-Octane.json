@@ -1,16 +1,14 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				125,
 				-2
 			],
-			"anim": "danceLeft",
+			"loop": false,
 			"fps": 24,
-			"name": "GF Dancing Beat",
+			"anim": "danceLeft",
 			"indices": [
-				30,
 				0,
 				1,
 				2,
@@ -23,18 +21,20 @@
 				9,
 				10,
 				11,
-				12,
-				13,
-				14
-			]
+				12
+			],
+			"name": "GF Dancing Beat"
 		},
 		{
 			"offsets": [
 				125,
 				-1
 			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
 			"indices": [
-				15,
+				13,
 				16,
 				17,
 				18,
@@ -43,24 +43,16 @@
 				21,
 				22,
 				23,
-				24,
-				25,
-				26,
-				27,
-				28,
-				29
+				24
 			],
-			"fps": 24,
-			"anim": "danceRight",
-			"loop": false,
 			"name": "GF Dancing Beat"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/Octane GF",
 	"position": [
-		780,
-		510
+		740,
+		460
 	],
 	"healthicon": "bf",
 	"flip_x": false,
@@ -70,7 +62,7 @@
 		209
 	],
 	"camera_position": [
-		-560,
+		-550,
 		0
 	],
 	"sing_duration": 4,

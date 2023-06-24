@@ -482,7 +482,6 @@ class TitleState extends MusicBeatState
 				case 3:
 					addMoreText('d0munit', 15);
 					addMoreText('ryissofly', 15);
-					addMoreText('grim', 15);
 
 				// credTextShit.text += '\npresent...';
 				// credTextShit.addText();
