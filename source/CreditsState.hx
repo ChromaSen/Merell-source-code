@@ -92,6 +92,7 @@ class CreditsState extends MusicBeatState
 			['Anonymous', 'Anon_Icon', 'Composer for Hazard, Amalgamation, and Game Over tracks', '', '0'],
 			['Special Thanks'],
 			['HyperSAM', 'Sam icon', 'Original coder for V1.0', 'https://twitter.com/HyperNormalSAM', '375FF0'],
+			['tinb', 'this is nice boy icon', 'Animator, remade an idle animation for Octane', 'https://thisisniceboy.newgrounds.com/', '375FF0'],
 			['Nukiruki', 'nuki icon', 'Playtesting', 'https://twitter.com/NUKIRUKI', 'D7FF64']
 		];
 		
