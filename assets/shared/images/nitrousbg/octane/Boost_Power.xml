@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Boost Power.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Boost BG0000" x="0" y="0" width="1281" height="721"/>
+	<SubTexture name="Boost BG0001" x="1281" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="Boost BG0002" x="2561" y="0" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="Boost BG0003" x="0" y="721" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="Boost BG0004" x="1280" y="721" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="Boost BG0005" x="2560" y="721" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="Boost BG0006" x="0" y="1441" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="Boost BG0007" x="1280" y="1441" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="Boost BG0008" x="2560" y="1441" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="Boost BG0009" x="0" y="2161" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="Boost BG0010" x="1280" y="2161" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="Boost BG0011" x="2560" y="2161" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="Boost BG0012" x="0" y="2881" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="Boost BG0013" x="1280" y="2881" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721"/>
+	<SubTexture name="Boost BG0014" x="1280" y="2881" width="1280" height="720" frameX="0" frameY="0" frameWidth="1281" frameHeight="721"/>
+</TextureAtlas>

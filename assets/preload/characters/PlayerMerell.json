@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				8
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Left Note MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				395,
+				48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Merell Dies"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				337,
+				-531
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Merell Dead Loop",
+			"indices": []
+		},
+		{
+			"offsets": [
+				337,
+				-531
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Merell Dead Confirm"
+		},
+		{
+			"offsets": [
+				52,
+				-244
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Down Note MISS"
+		},
+		{
+			"offsets": [
+				-24,
+				61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Up Note MISS"
+		},
+		{
+			"offsets": [
+				-82,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Right Note MISS"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				-240
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down Note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				163,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left Note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				35
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up Note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-82,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right Note0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PlayerMerell",
+	"position": [
+		100,
+		-10
+	],
+	"healthicon": "playermerell",
+	"flip_x": true,
+	"healthbar_colors": [
+		215,
+		60,
+		109
+	],
+	"camera_position": [
+		220,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

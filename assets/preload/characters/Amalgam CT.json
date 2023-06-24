@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-77,
+				304
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle Amalgam",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-118,
+				317
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Amalgam Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				31,
+				174
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Amalgam Down"
+		},
+		{
+			"offsets": [
+				29,
+				214
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Amalgam Right"
+		},
+		{
+			"offsets": [
+				88,
+				394
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Amalagam Up"
+		},
+		{
+			"offsets": [
+				88,
+				394
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Amalgam Laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Amalgam CT",
+	"position": [
+		30,
+		440
+	],
+	"healthicon": "ACT",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		20,
+		0
+	],
+	"camera_position": [
+		-60,
+		-290
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

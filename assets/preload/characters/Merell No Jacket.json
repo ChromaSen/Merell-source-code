@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				64
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Merell Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-191,
+				-128
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Merell Right"
+		},
+		{
+			"offsets": [
+				-127,
+				-126
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Merell Left"
+		},
+		{
+			"offsets": [
+				-121,
+				98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Merell Up"
+		},
+		{
+			"offsets": [
+				0,
+				-198
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Merell Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MerellNoJacket",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "merell",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		60,
+		109
+	],
+	"camera_position": [
+		110,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

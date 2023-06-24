@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "cyrix idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "cyrix meow",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cyrix down note0"
+		},
+		{
+			"offsets": [
+				66,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cyrix right note0"
+		},
+		{
+			"offsets": [
+				44,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cyrix up note0"
+		},
+		{
+			"offsets": [
+				20,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cyrix left note0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				25
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "cyrix down note MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				16
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "cyrix right note MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				63
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "cyrix up note MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				53
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "cyrix left note MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				13,
+				55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Cyrix Dies0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				25
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Cyrix Dies Confirm",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				15,
+				24
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Cyrix Dies Loop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Cyrix",
+	"position": [
+		150,
+		5
+	],
+	"healthicon": "cyrix",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		235,
+		86
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

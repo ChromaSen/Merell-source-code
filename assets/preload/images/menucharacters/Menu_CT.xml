@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_CT.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Menu Idle0000" x="0" y="0" width="347" height="479" frameX="0" frameY="-27" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="Menu Idle0001" x="0" y="0" width="347" height="479" frameX="0" frameY="-27" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="Menu Idle0002" x="347" y="0" width="330" height="488" frameX="-13" frameY="-18" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="Menu Idle0003" x="347" y="0" width="330" height="488" frameX="-13" frameY="-18" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="Menu Idle0004" x="677" y="0" width="327" height="497" frameX="-18" frameY="-9" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="Menu Idle0005" x="677" y="0" width="327" height="497" frameX="-18" frameY="-9" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="Menu Idle0006" x="0" y="497" width="321" height="504" frameX="-19" frameY="-1" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="Menu Idle0007" x="0" y="497" width="321" height="504" frameX="-19" frameY="-1" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="Menu Idle0008" x="321" y="497" width="317" height="505" frameX="-19" frameY="0" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="Menu Idle0009" x="321" y="497" width="317" height="505" frameX="-19" frameY="0" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="Menu Idle0010" x="321" y="497" width="317" height="505" frameX="-19" frameY="0" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="Menu Idle0011" x="321" y="497" width="317" height="505" frameX="-19" frameY="0" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="Menu Idle0012" x="321" y="497" width="317" height="505" frameX="-19" frameY="0" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="Menu Idle0013" x="321" y="497" width="317" height="505" frameX="-19" frameY="0" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="Menu Idle0014" x="321" y="497" width="317" height="505" frameX="-19" frameY="0" frameWidth="347" frameHeight="506"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Funkers Night.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Night Funkers bop0000" x="0" y="0" width="2375" height="452" frameX="0" frameY="-17" frameWidth="2375" frameHeight="469"/>
+	<SubTexture name="Night Funkers bop0001" x="0" y="0" width="2375" height="452" frameX="0" frameY="-17" frameWidth="2375" frameHeight="469"/>
+	<SubTexture name="Night Funkers bop0002" x="0" y="452" width="2375" height="459" frameX="0" frameY="-10" frameWidth="2375" frameHeight="469"/>
+	<SubTexture name="Night Funkers bop0003" x="0" y="452" width="2375" height="459" frameX="0" frameY="-10" frameWidth="2375" frameHeight="469"/>
+	<SubTexture name="Night Funkers bop0004" x="0" y="911" width="2375" height="469"/>
+	<SubTexture name="Night Funkers bop0005" x="0" y="911" width="2375" height="469"/>
+	<SubTexture name="Night Funkers bop0006" x="0" y="1380" width="2375" height="469"/>
+	<SubTexture name="Night Funkers bop0007" x="0" y="1380" width="2375" height="469"/>
+	<SubTexture name="Night Funkers bop0008" x="0" y="1380" width="2375" height="469"/>
+	<SubTexture name="Night Funkers bop0009" x="0" y="1380" width="2375" height="469"/>
+	<SubTexture name="Night Funkers bop0010" x="0" y="1380" width="2375" height="469"/>
+	<SubTexture name="Night Funkers bop0011" x="0" y="1380" width="2375" height="469"/>
+	<SubTexture name="Night Funkers bop0012" x="0" y="1380" width="2375" height="469"/>
+	<SubTexture name="Night Funkers bop0013" x="0" y="1380" width="2375" height="469"/>
+	<SubTexture name="Night Funkers bop0014" x="0" y="1380" width="2375" height="469"/>
+</TextureAtlas>

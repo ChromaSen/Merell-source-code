@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Merell Jacket.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CaraMerellDansen0000" x="0" y="0" width="600" height="800"/>
+	<SubTexture name="CaraMerellDansen0001" x="0" y="0" width="600" height="800"/>
+	<SubTexture name="CaraMerellDansen0002" x="0" y="0" width="600" height="800"/>
+	<SubTexture name="CaraMerellDansen0003" x="600" y="0" width="600" height="800"/>
+	<SubTexture name="CaraMerellDansen0004" x="600" y="0" width="600" height="800"/>
+	<SubTexture name="CaraMerellDansen0005" x="600" y="0" width="600" height="800"/>
+	<SubTexture name="CaraMerellDansen0006" x="1200" y="0" width="600" height="800"/>
+	<SubTexture name="CaraMerellDansen0007" x="1200" y="0" width="600" height="800"/>
+	<SubTexture name="CaraMerellDansen0008" x="1200" y="0" width="600" height="800"/>
+	<SubTexture name="CaraMerellDansen0009" x="1800" y="0" width="600" height="800"/>
+	<SubTexture name="CaraMerellDansen0010" x="1800" y="0" width="600" height="800"/>
+	<SubTexture name="CaraMerellDansen0011" x="1800" y="0" width="600" height="800"/>
+	<SubTexture name="Merell Jacket Down0000" x="2400" y="0" width="561" height="532" frameX="0" frameY="-28" frameWidth="561" frameHeight="560"/>
+	<SubTexture name="Merell Jacket Down0001" x="2400" y="0" width="561" height="532" frameX="0" frameY="-28" frameWidth="561" frameHeight="560"/>
+	<SubTexture name="Merell Jacket Down0002" x="2961" y="0" width="546" height="538" frameX="-6" frameY="-22" frameWidth="561" frameHeight="560"/>
+	<SubTexture name="Merell Jacket Down0003" x="2961" y="0" width="546" height="538" frameX="-6" frameY="-22" frameWidth="561" frameHeight="560"/>
+	<SubTexture name="Merell Jacket Down0004" x="3507" y="0" width="543" height="547" frameX="-4" frameY="-13" frameWidth="561" frameHeight="560"/>
+	<SubTexture name="Merell Jacket Down0005" x="3507" y="0" width="543" height="547" frameX="-4" frameY="-13" frameWidth="561" frameHeight="560"/>
+	<SubTexture name="Merell Jacket Down0006" x="0" y="800" width="528" height="560" frameX="-13" frameY="0" frameWidth="561" frameHeight="560"/>
+	<SubTexture name="Merell Jacket Down0007" x="0" y="800" width="528" height="560" frameX="-13" frameY="0" frameWidth="561" frameHeight="560"/>
+	<SubTexture name="Merell Jacket Down0008" x="0" y="800" width="528" height="560" frameX="-13" frameY="0" frameWidth="561" frameHeight="560"/>
+	<SubTexture name="Merell Jacket Down0009" x="0" y="800" width="528" height="560" frameX="-13" frameY="0" frameWidth="561" frameHeight="560"/>
+	<SubTexture name="Merell Jacket Down0010" x="0" y="800" width="528" height="560" frameX="-13" frameY="0" frameWidth="561" frameHeight="560"/>
+	<SubTexture name="Merell Jacket Down0011" x="0" y="800" width="528" height="560" frameX="-13" frameY="0" frameWidth="561" frameHeight="560"/>
+	<SubTexture name="Merell Jacket Down0012" x="0" y="800" width="528" height="560" frameX="-13" frameY="0" frameWidth="561" frameHeight="560"/>
+	<SubTexture name="Merell Jacket Down0013" x="0" y="800" width="528" height="560" frameX="-13" frameY="0" frameWidth="561" frameHeight="560"/>
+	<SubTexture name="Merell Jacket Down0014" x="0" y="800" width="528" height="560" frameX="-13" frameY="0" frameWidth="561" frameHeight="560"/>
+	<SubTexture name="Merell Jacket Left0000" x="528" y="800" width="479" height="790" frameX="0" frameY="0" frameWidth="499" frameHeight="790"/>
+	<SubTexture name="Merell Jacket Left0001" x="528" y="800" width="479" height="790" frameX="0" frameY="0" frameWidth="499" frameHeight="790"/>
+	<SubTexture name="Merell Jacket Left0002" x="1007" y="800" width="479" height="790" frameX="-10" frameY="0" frameWidth="499" frameHeight="790"/>
+	<SubTexture name="Merell Jacket Left0003" x="1007" y="800" width="479" height="790" frameX="-10" frameY="0" frameWidth="499" frameHeight="790"/>
+	<SubTexture name="Merell Jacket Left0004" x="1486" y="800" width="485" height="784" frameX="-10" frameY="-6" frameWidth="499" frameHeight="790"/>
+	<SubTexture name="Merell Jacket Left0005" x="1486" y="800" width="485" height="784" frameX="-10" frameY="-6" frameWidth="499" frameHeight="790"/>
+	<SubTexture name="Merell Jacket Left0006" x="1971" y="800" width="488" height="781" frameX="-11" frameY="-9" frameWidth="499" frameHeight="790"/>
+	<SubTexture name="Merell Jacket Left0007" x="1971" y="800" width="488" height="781" frameX="-11" frameY="-9" frameWidth="499" frameHeight="790"/>
+	<SubTexture name="Merell Jacket Left0008" x="1971" y="800" width="488" height="781" frameX="-11" frameY="-9" frameWidth="499" frameHeight="790"/>
+	<SubTexture name="Merell Jacket Left0009" x="1971" y="800" width="488" height="781" frameX="-11" frameY="-9" frameWidth="499" frameHeight="790"/>
+	<SubTexture name="Merell Jacket Left0010" x="1971" y="800" width="488" height="781" frameX="-11" frameY="-9" frameWidth="499" frameHeight="790"/>
+	<SubTexture name="Merell Jacket Left0011" x="1971" y="800" width="488" height="781" frameX="-11" frameY="-9" frameWidth="499" frameHeight="790"/>
+	<SubTexture name="Merell Jacket Left0012" x="1971" y="800" width="488" height="781" frameX="-11" frameY="-9" frameWidth="499" frameHeight="790"/>
+	<SubTexture name="Merell Jacket Left0013" x="1971" y="800" width="488" height="781" frameX="-11" frameY="-9" frameWidth="499" frameHeight="790"/>
+	<SubTexture name="Merell Jacket Left0014" x="1971" y="800" width="488" height="781" frameX="-11" frameY="-9" frameWidth="499" frameHeight="790"/>
+	<SubTexture name="Merell Jacket Right0000" x="2459" y="800" width="615" height="799" frameX="-1" frameY="-1" frameWidth="616" frameHeight="800"/>
+	<SubTexture name="Merell Jacket Right0001" x="2459" y="800" width="615" height="799" frameX="-1" frameY="-1" frameWidth="616" frameHeight="800"/>
+	<SubTexture name="Merell Jacket Right0002" x="3074" y="800" width="609" height="797" frameX="0" frameY="-3" frameWidth="616" frameHeight="800"/>
+	<SubTexture name="Merell Jacket Right0003" x="3074" y="800" width="609" height="797" frameX="0" frameY="-3" frameWidth="616" frameHeight="800"/>
+	<SubTexture name="Merell Jacket Right0004" x="0" y="1599" width="603" height="799" frameX="0" frameY="-1" frameWidth="616" frameHeight="800"/>
+	<SubTexture name="Merell Jacket Right0005" x="0" y="1599" width="603" height="799" frameX="0" frameY="-1" frameWidth="616" frameHeight="800"/>
+	<SubTexture name="Merell Jacket Right0006" x="603" y="1599" width="594" height="800" frameX="0" frameY="0" frameWidth="616" frameHeight="800"/>
+	<SubTexture name="Merell Jacket Right0007" x="603" y="1599" width="594" height="800" frameX="0" frameY="0" frameWidth="616" frameHeight="800"/>
+	<SubTexture name="Merell Jacket Right0008" x="603" y="1599" width="594" height="800" frameX="0" frameY="0" frameWidth="616" frameHeight="800"/>
+	<SubTexture name="Merell Jacket Right0009" x="603" y="1599" width="594" height="800" frameX="0" frameY="0" frameWidth="616" frameHeight="800"/>
+	<SubTexture name="Merell Jacket Right0010" x="603" y="1599" width="594" height="800" frameX="0" frameY="0" frameWidth="616" frameHeight="800"/>
+	<SubTexture name="Merell Jacket Right0011" x="603" y="1599" width="594" height="800" frameX="0" frameY="0" frameWidth="616" frameHeight="800"/>
+	<SubTexture name="Merell Jacket Right0012" x="603" y="1599" width="594" height="800" frameX="0" frameY="0" frameWidth="616" frameHeight="800"/>
+	<SubTexture name="Merell Jacket Right0013" x="603" y="1599" width="594" height="800" frameX="0" frameY="0" frameWidth="616" frameHeight="800"/>
+	<SubTexture name="Merell Jacket Right0014" x="603" y="1599" width="594" height="800" frameX="0" frameY="0" frameWidth="616" frameHeight="800"/>
+	<SubTexture name="Merell Jacket Up0000" x="1197" y="1599" width="478" height="842" frameX="-7" frameY="0" frameWidth="486" frameHeight="842"/>
+	<SubTexture name="Merell Jacket Up0001" x="1197" y="1599" width="478" height="842" frameX="-7" frameY="0" frameWidth="486" frameHeight="842"/>
+	<SubTexture name="Merell Jacket Up0002" x="1675" y="1599" width="479" height="828" frameX="-4" frameY="-14" frameWidth="486" frameHeight="842"/>
+	<SubTexture name="Merell Jacket Up0003" x="1675" y="1599" width="479" height="828" frameX="-4" frameY="-14" frameWidth="486" frameHeight="842"/>
+	<SubTexture name="Merell Jacket Up0004" x="2154" y="1599" width="486" height="818" frameX="0" frameY="-24" frameWidth="486" frameHeight="842"/>
+	<SubTexture name="Merell Jacket Up0005" x="2154" y="1599" width="486" height="818" frameX="0" frameY="-24" frameWidth="486" frameHeight="842"/>
+	<SubTexture name="Merell Jacket Up0006" x="2640" y="1599" width="484" height="812" frameX="0" frameY="-30" frameWidth="486" frameHeight="842"/>
+	<SubTexture name="Merell Jacket Up0007" x="2640" y="1599" width="484" height="812" frameX="0" frameY="-30" frameWidth="486" frameHeight="842"/>
+	<SubTexture name="Merell Jacket Up0008" x="2640" y="1599" width="484" height="812" frameX="0" frameY="-30" frameWidth="486" frameHeight="842"/>
+	<SubTexture name="Merell Jacket Up0009" x="2640" y="1599" width="484" height="812" frameX="0" frameY="-30" frameWidth="486" frameHeight="842"/>
+	<SubTexture name="Merell Jacket Up0010" x="2640" y="1599" width="484" height="812" frameX="0" frameY="-30" frameWidth="486" frameHeight="842"/>
+	<SubTexture name="Merell Jacket Up0011" x="2640" y="1599" width="484" height="812" frameX="0" frameY="-30" frameWidth="486" frameHeight="842"/>
+	<SubTexture name="Merell Jacket Up0012" x="2640" y="1599" width="484" height="812" frameX="0" frameY="-30" frameWidth="486" frameHeight="842"/>
+	<SubTexture name="Merell Jacket Up0013" x="2640" y="1599" width="484" height="812" frameX="0" frameY="-30" frameWidth="486" frameHeight="842"/>
+	<SubTexture name="Merell Jacket Up0014" x="2640" y="1599" width="484" height="812" frameX="0" frameY="-30" frameWidth="486" frameHeight="842"/>
+	<SubTexture name="MerellJacketIdle0000" x="3124" y="1599" width="461" height="781" frameX="0" frameY="-9" frameWidth="461" frameHeight="790"/>
+	<SubTexture name="MerellJacketIdle0001" x="3124" y="1599" width="461" height="781" frameX="0" frameY="-9" frameWidth="461" frameHeight="790"/>
+	<SubTexture name="MerellJacketIdle0002" x="3585" y="1599" width="446" height="784" frameX="-7" frameY="-6" frameWidth="461" frameHeight="790"/>
+	<SubTexture name="MerellJacketIdle0003" x="3585" y="1599" width="446" height="784" frameX="-7" frameY="-6" frameWidth="461" frameHeight="790"/>
+	<SubTexture name="MerellJacketIdle0004" x="0" y="2441" width="448" height="786" frameX="-7" frameY="-4" frameWidth="461" frameHeight="790"/>
+	<SubTexture name="MerellJacketIdle0005" x="0" y="2441" width="448" height="786" frameX="-7" frameY="-4" frameWidth="461" frameHeight="790"/>
+	<SubTexture name="MerellJacketIdle0006" x="448" y="2441" width="430" height="790" frameX="-16" frameY="0" frameWidth="461" frameHeight="790"/>
+	<SubTexture name="MerellJacketIdle0007" x="448" y="2441" width="430" height="790" frameX="-16" frameY="0" frameWidth="461" frameHeight="790"/>
+	<SubTexture name="MerellJacketIdle0008" x="448" y="2441" width="430" height="790" frameX="-16" frameY="0" frameWidth="461" frameHeight="790"/>
+	<SubTexture name="MerellJacketIdle0009" x="448" y="2441" width="430" height="790" frameX="-16" frameY="0" frameWidth="461" frameHeight="790"/>
+	<SubTexture name="MerellJacketIdle0010" x="448" y="2441" width="430" height="790" frameX="-16" frameY="0" frameWidth="461" frameHeight="790"/>
+	<SubTexture name="MerellJacketIdle0011" x="448" y="2441" width="430" height="790" frameX="-16" frameY="0" frameWidth="461" frameHeight="790"/>
+	<SubTexture name="MerellJacketIdle0012" x="448" y="2441" width="430" height="790" frameX="-16" frameY="0" frameWidth="461" frameHeight="790"/>
+	<SubTexture name="MerellJacketIdle0013" x="448" y="2441" width="430" height="790" frameX="-16" frameY="0" frameWidth="461" frameHeight="790"/>
+	<SubTexture name="MerellJacketIdle0014" x="448" y="2441" width="430" height="790" frameX="-16" frameY="0" frameWidth="461" frameHeight="790"/>
+</TextureAtlas>

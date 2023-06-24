@@ -1,0 +1,168 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MerellIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MerellLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MerellDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MerellUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MerellRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "MerellIdle"
+		},
+		{
+			"offsets": [
+				4,
+				8
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "MerellLeft"
+		},
+		{
+			"offsets": [
+				-57,
+				-5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "MerellRight"
+		},
+		{
+			"offsets": [
+				29,
+				15
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "MerellUp"
+		},
+		{
+			"offsets": [
+				-46,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "MerellDown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Merell Octane",
+	"position": [
+		-50,
+		200
+	],
+	"healthicon": "octane",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		60,
+		109
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

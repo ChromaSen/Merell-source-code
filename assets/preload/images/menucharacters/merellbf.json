@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "BF idle dance pink",
+	"idle_anim": "BF idle dance pink",
+	"position": [
+		80,
+		10
+	],
+	"scale": 0.8,
+	"image": "menu_merellbf",
+	"flipX": false
+}

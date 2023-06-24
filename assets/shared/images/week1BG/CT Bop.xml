@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CT Bop.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CT bop0000" x="0" y="0" width="179" height="158" frameX="0" frameY="-2" frameWidth="179" frameHeight="160"/>
+	<SubTexture name="CT bop0001" x="0" y="0" width="179" height="158" frameX="0" frameY="-2" frameWidth="179" frameHeight="160"/>
+	<SubTexture name="CT bop0002" x="179" y="0" width="177" height="159" frameX="-1" frameY="-1" frameWidth="179" frameHeight="160"/>
+	<SubTexture name="CT bop0003" x="179" y="0" width="177" height="159" frameX="-1" frameY="-1" frameWidth="179" frameHeight="160"/>
+	<SubTexture name="CT bop0004" x="0" y="159" width="177" height="160" frameX="-1" frameY="0" frameWidth="179" frameHeight="160"/>
+	<SubTexture name="CT bop0005" x="0" y="159" width="177" height="160" frameX="-1" frameY="0" frameWidth="179" frameHeight="160"/>
+	<SubTexture name="CT bop0006" x="0" y="159" width="177" height="160" frameX="-1" frameY="0" frameWidth="179" frameHeight="160"/>
+	<SubTexture name="CT bop0007" x="0" y="159" width="177" height="160" frameX="-1" frameY="0" frameWidth="179" frameHeight="160"/>
+	<SubTexture name="CT bop0008" x="0" y="159" width="177" height="160" frameX="-1" frameY="0" frameWidth="179" frameHeight="160"/>
+	<SubTexture name="CT bop0009" x="0" y="159" width="177" height="160" frameX="-1" frameY="0" frameWidth="179" frameHeight="160"/>
+	<SubTexture name="CT bop0010" x="0" y="159" width="177" height="160" frameX="-1" frameY="0" frameWidth="179" frameHeight="160"/>
+	<SubTexture name="CT bop0011" x="0" y="159" width="177" height="160" frameX="-1" frameY="0" frameWidth="179" frameHeight="160"/>
+	<SubTexture name="CT bop0012" x="0" y="159" width="177" height="160" frameX="-1" frameY="0" frameWidth="179" frameHeight="160"/>
+	<SubTexture name="CT bop0013" x="0" y="159" width="177" height="160" frameX="-1" frameY="0" frameWidth="179" frameHeight="160"/>
+	<SubTexture name="CT bop0014" x="0" y="159" width="177" height="160" frameX="-1" frameY="0" frameWidth="179" frameHeight="160"/>
+</TextureAtlas>

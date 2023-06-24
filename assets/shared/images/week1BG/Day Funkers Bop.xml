@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Day Funkers Bop.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Day Funkers bop0000" x="0" y="0" width="2519" height="493" frameX="0" frameY="0" frameWidth="2519" frameHeight="494"/>
+	<SubTexture name="Day Funkers bop0001" x="0" y="0" width="2519" height="493" frameX="0" frameY="0" frameWidth="2519" frameHeight="494"/>
+	<SubTexture name="Day Funkers bop0002" x="0" y="493" width="2515" height="478" frameX="-2" frameY="-16" frameWidth="2519" frameHeight="494"/>
+	<SubTexture name="Day Funkers bop0003" x="0" y="493" width="2515" height="478" frameX="-2" frameY="-16" frameWidth="2519" frameHeight="494"/>
+	<SubTexture name="Day Funkers bop0004" x="0" y="971" width="2510" height="487" frameX="-4" frameY="-6" frameWidth="2519" frameHeight="494"/>
+	<SubTexture name="Day Funkers bop0005" x="0" y="971" width="2510" height="487" frameX="-4" frameY="-6" frameWidth="2519" frameHeight="494"/>
+	<SubTexture name="Day Funkers bop0006" x="0" y="1458" width="2510" height="493" frameX="-4" frameY="0" frameWidth="2519" frameHeight="494"/>
+	<SubTexture name="Day Funkers bop0007" x="0" y="1458" width="2510" height="493" frameX="-4" frameY="0" frameWidth="2519" frameHeight="494"/>
+	<SubTexture name="Day Funkers bop0008" x="0" y="1458" width="2510" height="493" frameX="-4" frameY="0" frameWidth="2519" frameHeight="494"/>
+	<SubTexture name="Day Funkers bop0009" x="0" y="1458" width="2510" height="493" frameX="-4" frameY="0" frameWidth="2519" frameHeight="494"/>
+	<SubTexture name="Day Funkers bop0010" x="0" y="1458" width="2510" height="493" frameX="-4" frameY="0" frameWidth="2519" frameHeight="494"/>
+	<SubTexture name="Day Funkers bop0011" x="0" y="1458" width="2510" height="493" frameX="-4" frameY="0" frameWidth="2519" frameHeight="494"/>
+	<SubTexture name="Day Funkers bop0012" x="0" y="1458" width="2510" height="493" frameX="-4" frameY="0" frameWidth="2519" frameHeight="494"/>
+	<SubTexture name="Day Funkers bop0013" x="0" y="1458" width="2510" height="493" frameX="-4" frameY="0" frameWidth="2519" frameHeight="494"/>
+	<SubTexture name="Day Funkers bop0014" x="0" y="1458" width="2510" height="493" frameX="-4" frameY="0" frameWidth="2519" frameHeight="494"/>
+</TextureAtlas>

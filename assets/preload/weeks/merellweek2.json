@@ -1,0 +1,50 @@
+{
+	"storyName": "Trashed and Scattered",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "nighttrack",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Spiraling",
+			"ct",
+			[
+				246,
+				133,
+				55
+			]
+		],
+		[
+			"Wreckage",
+			"ct",
+			[
+				246,
+				133,
+				55
+			]
+		],
+		[
+			"Haywire",
+			"ct",
+			[
+				246,
+				133,
+				55
+			]
+		]
+	],
+	"weekCharacters": [
+		"ct",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Trashed and Scattered"
+}

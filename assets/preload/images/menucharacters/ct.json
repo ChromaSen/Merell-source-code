@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Menu Idle",
+	"image": "Menu_CT",
+	"position": [
+		120,
+		70
+	],
+	"flipX": false,
+	"scale": 0.7,
+	"confirm_anim": "BF idle dance pink"
+}

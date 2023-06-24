@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PlayerMerell.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down Note0000" x="0" y="0" width="566" height="532" frameX="0" frameY="-21" frameWidth="566" frameHeight="554"/>
+	<SubTexture name="Down Note0001" x="0" y="0" width="566" height="532" frameX="0" frameY="-21" frameWidth="566" frameHeight="554"/>
+	<SubTexture name="Down Note0002" x="566" y="0" width="542" height="539" frameX="-11" frameY="-15" frameWidth="566" frameHeight="554"/>
+	<SubTexture name="Down Note0003" x="566" y="0" width="542" height="539" frameX="-11" frameY="-15" frameWidth="566" frameHeight="554"/>
+	<SubTexture name="Down Note0004" x="1108" y="0" width="537" height="545" frameX="-11" frameY="-9" frameWidth="566" frameHeight="554"/>
+	<SubTexture name="Down Note0005" x="1108" y="0" width="537" height="545" frameX="-11" frameY="-9" frameWidth="566" frameHeight="554"/>
+	<SubTexture name="Down Note0006" x="1645" y="0" width="529" height="553" frameX="-16" frameY="0" frameWidth="566" frameHeight="554"/>
+	<SubTexture name="Down Note0007" x="1645" y="0" width="529" height="553" frameX="-16" frameY="0" frameWidth="566" frameHeight="554"/>
+	<SubTexture name="Down Note0008" x="1645" y="0" width="529" height="553" frameX="-16" frameY="0" frameWidth="566" frameHeight="554"/>
+	<SubTexture name="Down Note0009" x="1645" y="0" width="529" height="553" frameX="-16" frameY="0" frameWidth="566" frameHeight="554"/>
+	<SubTexture name="Down Note0010" x="1645" y="0" width="529" height="553" frameX="-16" frameY="0" frameWidth="566" frameHeight="554"/>
+	<SubTexture name="Down Note0011" x="1645" y="0" width="529" height="553" frameX="-16" frameY="0" frameWidth="566" frameHeight="554"/>
+	<SubTexture name="Down Note0012" x="1645" y="0" width="529" height="553" frameX="-16" frameY="0" frameWidth="566" frameHeight="554"/>
+	<SubTexture name="Down Note0013" x="1645" y="0" width="529" height="553" frameX="-16" frameY="0" frameWidth="566" frameHeight="554"/>
+	<SubTexture name="Down Note0014" x="1645" y="0" width="529" height="553" frameX="-16" frameY="0" frameWidth="566" frameHeight="554"/>
+	<SubTexture name="Down Note MISS0000" x="2174" y="0" width="529" height="550" frameX="-4" frameY="0" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0001" x="2703" y="0" width="537" height="543" frameX="0" frameY="-7" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0002" x="2703" y="0" width="537" height="543" frameX="0" frameY="-7" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0003" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0004" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0005" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0006" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0007" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0008" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0009" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0010" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0011" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0012" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0013" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0014" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0015" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0016" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0017" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0018" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0019" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0020" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0021" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0022" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0023" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0024" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0025" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0026" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0027" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0028" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Down Note MISS0029" x="3240" y="0" width="529" height="547" frameX="-4" frameY="-3" frameWidth="537" frameHeight="550"/>
+	<SubTexture name="Idle0000" x="3769" y="0" width="442" height="788" frameX="0" frameY="-3" frameWidth="442" frameHeight="791"/>
+	<SubTexture name="Idle0001" x="3769" y="0" width="442" height="788" frameX="0" frameY="-3" frameWidth="442" frameHeight="791"/>
+	<SubTexture name="Idle0002" x="4211" y="0" width="436" height="789" frameX="-3" frameY="-2" frameWidth="442" frameHeight="791"/>
+	<SubTexture name="Idle0003" x="4211" y="0" width="436" height="789" frameX="-3" frameY="-2" frameWidth="442" frameHeight="791"/>
+	<SubTexture name="Idle0004" x="4647" y="0" width="436" height="789" frameX="-4" frameY="-2" frameWidth="442" frameHeight="791"/>
+	<SubTexture name="Idle0005" x="4647" y="0" width="436" height="789" frameX="-4" frameY="-2" frameWidth="442" frameHeight="791"/>
+	<SubTexture name="Idle0006" x="5083" y="0" width="430" height="790" frameX="-6" frameY="0" frameWidth="442" frameHeight="791"/>
+	<SubTexture name="Idle0007" x="5083" y="0" width="430" height="790" frameX="-6" frameY="0" frameWidth="442" frameHeight="791"/>
+	<SubTexture name="Idle0008" x="5083" y="0" width="430" height="790" frameX="-6" frameY="0" frameWidth="442" frameHeight="791"/>
+	<SubTexture name="Idle0009" x="5083" y="0" width="430" height="790" frameX="-6" frameY="0" frameWidth="442" frameHeight="791"/>
+	<SubTexture name="Idle0010" x="5083" y="0" width="430" height="790" frameX="-6" frameY="0" frameWidth="442" frameHeight="791"/>
+	<SubTexture name="Idle0011" x="5083" y="0" width="430" height="790" frameX="-6" frameY="0" frameWidth="442" frameHeight="791"/>
+	<SubTexture name="Idle0012" x="5083" y="0" width="430" height="790" frameX="-6" frameY="0" frameWidth="442" frameHeight="791"/>
+	<SubTexture name="Idle0013" x="5083" y="0" width="430" height="790" frameX="-6" frameY="0" frameWidth="442" frameHeight="791"/>
+	<SubTexture name="Idle0014" x="5083" y="0" width="430" height="790" frameX="-6" frameY="0" frameWidth="442" frameHeight="791"/>
+	<SubTexture name="Left Note0000" x="5513" y="0" width="610" height="801"/>
+	<SubTexture name="Left Note0001" x="5513" y="0" width="610" height="801"/>
+	<SubTexture name="Left Note0002" x="6123" y="0" width="603" height="800" frameX="-7" frameY="-1" frameWidth="610" frameHeight="801"/>
+	<SubTexture name="Left Note0003" x="6123" y="0" width="603" height="800" frameX="-7" frameY="-1" frameWidth="610" frameHeight="801"/>
+	<SubTexture name="Left Note0004" x="6726" y="0" width="598" height="800" frameX="-12" frameY="-1" frameWidth="610" frameHeight="801"/>
+	<SubTexture name="Left Note0005" x="6726" y="0" width="598" height="800" frameX="-12" frameY="-1" frameWidth="610" frameHeight="801"/>
+	<SubTexture name="Left Note0006" x="7324" y="0" width="594" height="800" frameX="-16" frameY="-1" frameWidth="610" frameHeight="801"/>
+	<SubTexture name="Left Note0007" x="7324" y="0" width="594" height="800" frameX="-16" frameY="-1" frameWidth="610" frameHeight="801"/>
+	<SubTexture name="Left Note0008" x="7324" y="0" width="594" height="800" frameX="-16" frameY="-1" frameWidth="610" frameHeight="801"/>
+	<SubTexture name="Left Note0009" x="7324" y="0" width="594" height="800" frameX="-16" frameY="-1" frameWidth="610" frameHeight="801"/>
+	<SubTexture name="Left Note0010" x="7324" y="0" width="594" height="800" frameX="-16" frameY="-1" frameWidth="610" frameHeight="801"/>
+	<SubTexture name="Left Note0011" x="7324" y="0" width="594" height="800" frameX="-16" frameY="-1" frameWidth="610" frameHeight="801"/>
+	<SubTexture name="Left Note0012" x="7324" y="0" width="594" height="800" frameX="-16" frameY="-1" frameWidth="610" frameHeight="801"/>
+	<SubTexture name="Left Note0013" x="7324" y="0" width="594" height="800" frameX="-16" frameY="-1" frameWidth="610" frameHeight="801"/>
+	<SubTexture name="Left Note0014" x="7324" y="0" width="594" height="800" frameX="-16" frameY="-1" frameWidth="610" frameHeight="801"/>
+	<SubTexture name="Left Note MISS0000" x="7324" y="0" width="594" height="800" frameX="-43" frameY="0" frameWidth="610" frameHeight="801"/>
+	<SubTexture name="Left Note MISS0001" x="0" y="801" width="637" height="775" frameX="0" frameY="-25" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0002" x="0" y="801" width="637" height="775" frameX="0" frameY="-25" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0003" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0004" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0005" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0006" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0007" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0008" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0009" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0010" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0011" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0012" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0013" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0014" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0015" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0016" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0017" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0018" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0019" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0020" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0021" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0022" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0023" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0024" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0025" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0026" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0027" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0028" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Left Note MISS0029" x="637" y="801" width="594" height="800" frameX="-43" frameY="0" frameWidth="637" frameHeight="800"/>
+	<SubTexture name="Menu Idle0000" x="1231" y="801" width="465" height="777" frameX="-2" frameY="-14" frameWidth="469" frameHeight="791"/>
+	<SubTexture name="Menu Idle0001" x="1231" y="801" width="465" height="777" frameX="-2" frameY="-14" frameWidth="469" frameHeight="791"/>
+	<SubTexture name="Menu Idle0002" x="1696" y="801" width="456" height="782" frameX="-5" frameY="-9" frameWidth="469" frameHeight="791"/>
+	<SubTexture name="Menu Idle0003" x="1696" y="801" width="456" height="782" frameX="-5" frameY="-9" frameWidth="469" frameHeight="791"/>
+	<SubTexture name="Menu Idle0004" x="2152" y="801" width="469" height="790" frameX="0" frameY="-1" frameWidth="469" frameHeight="791"/>
+	<SubTexture name="Menu Idle0005" x="2152" y="801" width="469" height="790" frameX="0" frameY="-1" frameWidth="469" frameHeight="791"/>
+	<SubTexture name="Menu Idle0006" x="2621" y="801" width="431" height="790" frameX="-17" frameY="0" frameWidth="469" frameHeight="791"/>
+	<SubTexture name="Menu Idle0007" x="2621" y="801" width="431" height="790" frameX="-17" frameY="0" frameWidth="469" frameHeight="791"/>
+	<SubTexture name="Menu Idle0008" x="2621" y="801" width="431" height="790" frameX="-17" frameY="0" frameWidth="469" frameHeight="791"/>
+	<SubTexture name="Menu Idle0009" x="2621" y="801" width="431" height="790" frameX="-17" frameY="0" frameWidth="469" frameHeight="791"/>
+	<SubTexture name="Menu Idle0010" x="2621" y="801" width="431" height="790" frameX="-17" frameY="0" frameWidth="469" frameHeight="791"/>
+	<SubTexture name="Menu Idle0011" x="2621" y="801" width="431" height="790" frameX="-17" frameY="0" frameWidth="469" frameHeight="791"/>
+	<SubTexture name="Menu Idle0012" x="2621" y="801" width="431" height="790" frameX="-17" frameY="0" frameWidth="469" frameHeight="791"/>
+	<SubTexture name="Menu Idle0013" x="2621" y="801" width="431" height="790" frameX="-17" frameY="0" frameWidth="469" frameHeight="791"/>
+	<SubTexture name="Menu Idle0014" x="2621" y="801" width="431" height="790" frameX="-17" frameY="0" frameWidth="469" frameHeight="791"/>
+	<SubTexture name="Merell Dead Confirm0000" x="3052" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0001" x="3862" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0002" x="4672" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0003" x="4672" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0004" x="4672" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0005" x="3052" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0006" x="3052" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0007" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0008" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0009" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0010" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0011" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0012" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0013" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0014" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0015" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0016" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0017" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0018" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0019" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0020" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0021" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0022" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0023" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0024" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0025" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0026" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0027" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0028" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0029" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0030" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0031" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0032" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Confirm0033" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0000" x="6292" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0001" x="6292" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0002" x="7102" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0003" x="7102" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0004" x="0" y="1601" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0005" x="0" y="1601" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0006" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0007" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0008" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0009" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0010" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0011" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0012" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0013" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0014" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0015" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0016" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0017" x="6292" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0018" x="6292" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0019" x="7102" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0020" x="7102" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0021" x="0" y="1601" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0022" x="0" y="1601" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0023" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0024" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0025" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0026" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0027" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0028" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0029" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0030" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0031" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0032" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dead Loop0033" x="5482" y="801" width="810" height="263"/>
+	<SubTexture name="Merell Dies0000" x="810" y="1601" width="400" height="845" frameX="-447" frameY="0" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0001" x="810" y="1601" width="400" height="845" frameX="-447" frameY="0" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0002" x="1210" y="1601" width="459" height="834" frameX="-434" frameY="-11" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0003" x="1210" y="1601" width="459" height="834" frameX="-434" frameY="-11" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0004" x="1669" y="1601" width="572" height="810" frameX="-396" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0005" x="1669" y="1601" width="572" height="810" frameX="-396" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0006" x="2241" y="1601" width="702" height="810" frameX="-315" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0007" x="2241" y="1601" width="702" height="810" frameX="-315" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0008" x="2943" y="1601" width="422" height="810" frameX="-427" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0009" x="2943" y="1601" width="422" height="810" frameX="-427" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0010" x="2943" y="1601" width="422" height="810" frameX="-427" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0011" x="3365" y="1601" width="422" height="810" frameX="-427" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0012" x="3787" y="1601" width="422" height="810" frameX="-427" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0013" x="3787" y="1601" width="422" height="810" frameX="-427" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0014" x="3365" y="1601" width="422" height="810" frameX="-427" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0015" x="2943" y="1601" width="422" height="810" frameX="-427" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0016" x="2943" y="1601" width="422" height="810" frameX="-427" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0017" x="2943" y="1601" width="422" height="810" frameX="-427" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0018" x="3365" y="1601" width="422" height="810" frameX="-427" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0019" x="3365" y="1601" width="422" height="810" frameX="-427" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0020" x="3365" y="1601" width="422" height="810" frameX="-427" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0021" x="3365" y="1601" width="422" height="810" frameX="-427" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0022" x="3365" y="1601" width="422" height="810" frameX="-427" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0023" x="3365" y="1601" width="422" height="810" frameX="-427" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0024" x="3365" y="1601" width="422" height="810" frameX="-427" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0025" x="3365" y="1601" width="422" height="810" frameX="-427" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0026" x="3365" y="1601" width="422" height="810" frameX="-427" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0027" x="3365" y="1601" width="422" height="810" frameX="-427" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0028" x="3365" y="1601" width="422" height="810" frameX="-427" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0029" x="3365" y="1601" width="422" height="810" frameX="-427" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0030" x="3365" y="1601" width="422" height="810" frameX="-427" frameY="-35" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0031" x="4209" y="1601" width="558" height="872" frameX="-359" frameY="-11" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0032" x="4767" y="1601" width="1039" height="841" frameX="0" frameY="-43" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0033" x="5806" y="1601" width="832" height="218" frameX="-36" frameY="-625" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0034" x="6638" y="1601" width="810" height="263" frameX="-58" frameY="-579" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0035" x="6638" y="1601" width="810" height="263" frameX="-59" frameY="-563" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0036" x="0" y="2473" width="810" height="246" frameX="-58" frameY="-597" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0037" x="0" y="2473" width="810" height="246" frameX="-58" frameY="-597" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0038" x="6638" y="1601" width="810" height="263" frameX="-58" frameY="-579" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0039" x="6638" y="1601" width="810" height="263" frameX="-58" frameY="-579" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0040" x="6638" y="1601" width="810" height="263" frameX="-58" frameY="-579" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0041" x="6638" y="1601" width="810" height="263" frameX="-58" frameY="-579" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0042" x="810" y="2473" width="810" height="263" frameX="-58" frameY="-579" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0043" x="810" y="2473" width="810" height="263" frameX="-58" frameY="-579" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0044" x="810" y="2473" width="810" height="263" frameX="-58" frameY="-579" frameWidth="1039" frameHeight="884"/>
+	<SubTexture name="Merell Dies0045" x="5482" y="801" width="810" height="263" frameX="-58" frameY="-579" frameWidth="810" frameHeight="263"/>
+	<SubTexture name="Merell Dies0046" x="5482" y="801" width="810" height="263" frameX="-58" frameY="-579" frameWidth="810" frameHeight="263"/>
+	<SubTexture name="Merell Dies0047" x="5482" y="801" width="810" height="263" frameX="-58" frameY="-579" frameWidth="810" frameHeight="263"/>
+	<SubTexture name="Merell Dies0048" x="5482" y="801" width="810" height="263" frameX="-58" frameY="-579" frameWidth="810" frameHeight="263"/>
+	<SubTexture name="Merell Dies0049" x="5482" y="801" width="810" height="263" frameX="-58" frameY="-579" frameWidth="810" frameHeight="263"/>
+	<SubTexture name="Merell Dies0050" x="5482" y="801" width="810" height="263" frameX="-58" frameY="-579" frameWidth="810" frameHeight="263"/>
+	<SubTexture name="Merell Dies0051" x="5482" y="801" width="810" height="263" frameX="-58" frameY="-579" frameWidth="810" frameHeight="263"/>
+	<SubTexture name="Merell Dies0052" x="5482" y="801" width="810" height="263" frameX="-58" frameY="-579" frameWidth="810" frameHeight="263"/>
+	<SubTexture name="Merell Dies0053" x="5482" y="801" width="810" height="263" frameX="-58" frameY="-579" frameWidth="810" frameHeight="263"/>
+	<SubTexture name="Merell Dies0054" x="5482" y="801" width="810" height="263" frameX="-58" frameY="-579" frameWidth="810" frameHeight="263"/>
+	<SubTexture name="Merell Dies0055" x="5482" y="801" width="810" height="263" frameX="-58" frameY="-579" frameWidth="810" frameHeight="263"/>
+	<SubTexture name="Merell Dies0056" x="5482" y="801" width="810" height="263" frameX="-58" frameY="-579" frameWidth="810" frameHeight="263"/>
+	<SubTexture name="Merell Dies0057" x="5482" y="801" width="810" height="263" frameX="-58" frameY="-579" frameWidth="810" frameHeight="263"/>
+	<SubTexture name="Right Note0000" x="1620" y="2473" width="479" height="789" frameX="-16" frameY="0" frameWidth="495" frameHeight="790"/>
+	<SubTexture name="Right Note0001" x="1620" y="2473" width="479" height="789" frameX="-16" frameY="0" frameWidth="495" frameHeight="790"/>
+	<SubTexture name="Right Note0002" x="2099" y="2473" width="481" height="783" frameX="-11" frameY="-7" frameWidth="495" frameHeight="790"/>
+	<SubTexture name="Right Note0003" x="2099" y="2473" width="481" height="783" frameX="-11" frameY="-7" frameWidth="495" frameHeight="790"/>
+	<SubTexture name="Right Note0004" x="2580" y="2473" width="485" height="780" frameX="-3" frameY="-10" frameWidth="495" frameHeight="790"/>
+	<SubTexture name="Right Note0005" x="2580" y="2473" width="485" height="780" frameX="-3" frameY="-10" frameWidth="495" frameHeight="790"/>
+	<SubTexture name="Right Note0006" x="3065" y="2473" width="486" height="778" frameX="0" frameY="-11" frameWidth="495" frameHeight="790"/>
+	<SubTexture name="Right Note0007" x="3065" y="2473" width="486" height="778" frameX="0" frameY="-11" frameWidth="495" frameHeight="790"/>
+	<SubTexture name="Right Note0008" x="3065" y="2473" width="486" height="778" frameX="0" frameY="-11" frameWidth="495" frameHeight="790"/>
+	<SubTexture name="Right Note0009" x="3065" y="2473" width="486" height="778" frameX="0" frameY="-11" frameWidth="495" frameHeight="790"/>
+	<SubTexture name="Right Note0010" x="3065" y="2473" width="486" height="778" frameX="0" frameY="-11" frameWidth="495" frameHeight="790"/>
+	<SubTexture name="Right Note0011" x="3065" y="2473" width="486" height="778" frameX="0" frameY="-11" frameWidth="495" frameHeight="790"/>
+	<SubTexture name="Right Note0012" x="3065" y="2473" width="486" height="778" frameX="0" frameY="-11" frameWidth="495" frameHeight="790"/>
+	<SubTexture name="Right Note0013" x="3065" y="2473" width="486" height="778" frameX="0" frameY="-11" frameWidth="495" frameHeight="790"/>
+	<SubTexture name="Right Note0014" x="3065" y="2473" width="486" height="778" frameX="0" frameY="-11" frameWidth="495" frameHeight="790"/>
+	<SubTexture name="Right Note MISS0000" x="3551" y="2473" width="486" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0001" x="4037" y="2473" width="464" height="798" frameX="-23" frameY="0" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0002" x="4037" y="2473" width="464" height="798" frameX="-23" frameY="0" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0003" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0004" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0005" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0006" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0007" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0008" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0009" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0010" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0011" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0012" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0013" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0014" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0015" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0016" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0017" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0018" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0019" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0020" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0021" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0022" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0023" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0024" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0025" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0026" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0027" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0028" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Right Note MISS0029" x="4501" y="2473" width="487" height="778" frameX="0" frameY="-20" frameWidth="487" frameHeight="798"/>
+	<SubTexture name="Up Note0000" x="4988" y="2473" width="496" height="825"/>
+	<SubTexture name="Up Note0001" x="4988" y="2473" width="496" height="825"/>
+	<SubTexture name="Up Note0002" x="5484" y="2473" width="491" height="821" frameX="-1" frameY="-4" frameWidth="496" frameHeight="825"/>
+	<SubTexture name="Up Note0003" x="5484" y="2473" width="491" height="821" frameX="-1" frameY="-4" frameWidth="496" frameHeight="825"/>
+	<SubTexture name="Up Note0004" x="5975" y="2473" width="488" height="814" frameX="-2" frameY="-11" frameWidth="496" frameHeight="825"/>
+	<SubTexture name="Up Note0005" x="5975" y="2473" width="488" height="814" frameX="-2" frameY="-11" frameWidth="496" frameHeight="825"/>
+	<SubTexture name="Up Note0006" x="6463" y="2473" width="483" height="811" frameX="-4" frameY="-14" frameWidth="496" frameHeight="825"/>
+	<SubTexture name="Up Note0007" x="6463" y="2473" width="483" height="811" frameX="-4" frameY="-14" frameWidth="496" frameHeight="825"/>
+	<SubTexture name="Up Note0008" x="6463" y="2473" width="483" height="811" frameX="-4" frameY="-14" frameWidth="496" frameHeight="825"/>
+	<SubTexture name="Up Note0009" x="6463" y="2473" width="483" height="811" frameX="-4" frameY="-14" frameWidth="496" frameHeight="825"/>
+	<SubTexture name="Up Note0010" x="6463" y="2473" width="483" height="811" frameX="-4" frameY="-14" frameWidth="496" frameHeight="825"/>
+	<SubTexture name="Up Note0011" x="6463" y="2473" width="483" height="811" frameX="-4" frameY="-14" frameWidth="496" frameHeight="825"/>
+	<SubTexture name="Up Note0012" x="6463" y="2473" width="483" height="811" frameX="-4" frameY="-14" frameWidth="496" frameHeight="825"/>
+	<SubTexture name="Up Note0013" x="6463" y="2473" width="483" height="811" frameX="-4" frameY="-14" frameWidth="496" frameHeight="825"/>
+	<SubTexture name="Up Note0014" x="6463" y="2473" width="483" height="811" frameX="-4" frameY="-14" frameWidth="496" frameHeight="825"/>
+	<SubTexture name="Up Note MISS0000" x="6946" y="2473" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0001" x="7429" y="2473" width="458" height="850" frameX="-13" frameY="0" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0002" x="7429" y="2473" width="458" height="850" frameX="-13" frameY="0" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0003" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0004" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0005" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0006" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0007" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0008" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0009" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0010" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0011" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0012" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0013" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0014" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0015" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0016" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0017" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0018" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0019" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0020" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0021" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0022" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0023" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0024" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0025" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0026" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0027" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0028" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+	<SubTexture name="Up Note MISS0029" x="0" y="3323" width="483" height="810" frameX="0" frameY="-40" frameWidth="483" frameHeight="850"/>
+</TextureAtlas>

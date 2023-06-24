@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "racetrack",
+		"player1": "bf",
+		"player2": "Merell Jacket",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Add Camera Zoom",
+						".65",
+						""
+					],
+					[
+						"Play Animation",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				78.9473684210526,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"Merell Jacket"
+					]
+				]
+			],
+			[
+				12236.8421052632,
+				[
+					[
+						"Change Character",
+						"BF",
+						"Cyrix"
+					]
+				]
+			],
+			[
+				12315.7894736842,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"Play Animation",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				12631.5789473684,
+				[
+					[
+						"Play Animation",
+						"3",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-jacket",
+		"bpm": 190,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "funky-feline"
+	}
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				202
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "CT Idle Twitch",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				164
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "CT Idle0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-13,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "CT Down"
+		},
+		{
+			"offsets": [
+				26,
+				174
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "CT Left"
+		},
+		{
+			"offsets": [
+				-66,
+				137
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "CT Right"
+		},
+		{
+			"offsets": [
+				-43,
+				447
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "CT Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ClickTick",
+	"position": [
+		-140,
+		420
+	],
+	"healthicon": "ct",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		195,
+		15
+	],
+	"camera_position": [
+		100,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

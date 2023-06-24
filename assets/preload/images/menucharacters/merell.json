@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Merell Menu",
+	"image": "Menu_Merell",
+	"position": [
+		190,
+		220
+	],
+	"flipX": false,
+	"scale": 0.45,
+	"confirm_anim": "BF idle dance pink"
+}

@@ -1,0 +1,1 @@
+go1 is for BF only and go2 is for Merell only

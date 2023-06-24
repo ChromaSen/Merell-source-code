@@ -1,0 +1,50 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"funky-feline",
+			"merell",
+			[
+				246,
+				93,
+				115
+			]
+		],
+		[
+			"hazard",
+			"ct",
+			[
+				246,
+				133,
+				55
+			]
+		],
+		[
+			"nitrous",
+			"ct",
+			[
+				246,
+				133,
+				55
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Freeplay"
+}

@@ -1,0 +1,324 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "amal",
+		"player1": "bf",
+		"player2": "Amalgam CT",
+		"player3": null,
+		"events": [
+			[
+				15483.8709677419,
+				[
+					[
+						"Red Stuff",
+						"0.5",
+						"0.5"
+					]
+				]
+			],
+			[
+				16935.4838709677,
+				[
+					[
+						"Health Drain",
+						"20",
+						"0.01"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				17056.4516129032,
+				[
+					[
+						"Health Drain",
+						"0",
+						"0.01"
+					]
+				]
+			],
+			[
+				31451.6129032258,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"Amalgam CT"
+					],
+					[
+						"Health Drain",
+						"20",
+						"0.01"
+					]
+				]
+			],
+			[
+				31693.5483870968,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"Amalgam CT"
+					],
+					[
+						"Health Drain",
+						"0.0",
+						"0.01"
+					]
+				]
+			],
+			[
+				33870.9677419355,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"Amalgam CT"
+					]
+				]
+			],
+			[
+				34475.8064516129,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"Amalgam CT"
+					]
+				]
+			],
+			[
+				35080.6451612903,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"Amalgam CT"
+					]
+				]
+			],
+			[
+				35443.5483870968,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"Amalgam CT"
+					]
+				]
+			],
+			[
+				65322.5806451613,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"Amalgam CT"
+					]
+				]
+			],
+			[
+				65443.5483870968,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"Amalgam CT"
+					]
+				]
+			],
+			[
+				65564.5161290323,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"Amalgam CT"
+					]
+				]
+			],
+			[
+				67258.064516129,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"Amalgam CT"
+					]
+				]
+			],
+			[
+				67500,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"Amalgam CT"
+					]
+				]
+			],
+			[
+				69677.4193548387,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"Amalgam CT"
+					]
+				]
+			],
+			[
+				70282.2580645161,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"Amalgam CT"
+					]
+				]
+			],
+			[
+				70887.0967741935,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"Amalgam CT"
+					]
+				]
+			],
+			[
+				71250,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"Amalgam CT"
+					]
+				]
+			],
+			[
+				82379.0322580645,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"Amalgam CT"
+					]
+				]
+			],
+			[
+				82500,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"Amalgam CT"
+					]
+				]
+			],
+			[
+				82741.935483871,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"Amalgam CT"
+					]
+				]
+			],
+			[
+				103548.387096774,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"Amalgam CT"
+					]
+				]
+			],
+			[
+				104032.258064516,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"Amalgam CT"
+					]
+				]
+			],
+			[
+				140322.580645161,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"Amalgam CT"
+					]
+				]
+			],
+			[
+				140806.451612903,
+				[
+					[
+						"Play Animation",
+						"hey",
+						"Amalgam CT"
+					]
+				]
+			],
+			[
+				158709.677419355,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"Amalgam CT"
+					]
+				]
+			],
+			[
+				160040.322580645,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"Amalgam CT"
+					]
+				]
+			],
+			[
+				160403.225806451,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"Amalgam CT"
+					]
+				]
+			],
+			[
+				160887.096774193,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"Amalgam CT"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 124,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Amalgamation"
+	}
+}

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ClickTick.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CT Down0000" x="0" y="0" width="370" height="326" frameX="0" frameY="-14" frameWidth="370" frameHeight="340"/>
+	<SubTexture name="CT Down0001" x="0" y="0" width="370" height="326" frameX="0" frameY="-14" frameWidth="370" frameHeight="340"/>
+	<SubTexture name="CT Down0002" x="370" y="0" width="359" height="328" frameX="-8" frameY="-11" frameWidth="370" frameHeight="340"/>
+	<SubTexture name="CT Down0003" x="370" y="0" width="359" height="328" frameX="-8" frameY="-11" frameWidth="370" frameHeight="340"/>
+	<SubTexture name="CT Down0004" x="729" y="0" width="347" height="332" frameX="-16" frameY="-7" frameWidth="370" frameHeight="340"/>
+	<SubTexture name="CT Down0005" x="729" y="0" width="347" height="332" frameX="-16" frameY="-7" frameWidth="370" frameHeight="340"/>
+	<SubTexture name="CT Down0006" x="1076" y="0" width="339" height="339" frameX="-21" frameY="0" frameWidth="370" frameHeight="340"/>
+	<SubTexture name="CT Down0007" x="1076" y="0" width="339" height="339" frameX="-21" frameY="0" frameWidth="370" frameHeight="340"/>
+	<SubTexture name="CT Down0008" x="1415" y="0" width="339" height="337" frameX="-21" frameY="-2" frameWidth="370" frameHeight="340"/>
+	<SubTexture name="CT Down0009" x="1415" y="0" width="339" height="337" frameX="-21" frameY="-2" frameWidth="370" frameHeight="340"/>
+	<SubTexture name="CT Down0010" x="1415" y="0" width="339" height="337" frameX="-21" frameY="-2" frameWidth="370" frameHeight="340"/>
+	<SubTexture name="CT Down0011" x="1415" y="0" width="339" height="337" frameX="-21" frameY="-2" frameWidth="370" frameHeight="340"/>
+	<SubTexture name="CT Down0012" x="1415" y="0" width="339" height="337" frameX="-21" frameY="-2" frameWidth="370" frameHeight="340"/>
+	<SubTexture name="CT Down0013" x="1415" y="0" width="339" height="337" frameX="-21" frameY="-2" frameWidth="370" frameHeight="340"/>
+	<SubTexture name="CT Down0014" x="1415" y="0" width="339" height="337" frameX="-21" frameY="-2" frameWidth="370" frameHeight="340"/>
+	<SubTexture name="CT Idle0000" x="1754" y="0" width="347" height="479" frameX="0" frameY="-27" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="CT Idle0001" x="1754" y="0" width="347" height="479" frameX="0" frameY="-27" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="CT Idle0002" x="2101" y="0" width="330" height="488" frameX="-13" frameY="-18" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="CT Idle0003" x="2101" y="0" width="330" height="488" frameX="-13" frameY="-18" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="CT Idle0004" x="2431" y="0" width="327" height="497" frameX="-18" frameY="-9" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="CT Idle0005" x="2431" y="0" width="327" height="497" frameX="-18" frameY="-9" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="CT Idle0006" x="2758" y="0" width="321" height="504" frameX="-19" frameY="-1" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="CT Idle0007" x="2758" y="0" width="321" height="504" frameX="-19" frameY="-1" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="CT Idle0008" x="3079" y="0" width="317" height="505" frameX="-19" frameY="0" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="CT Idle0009" x="3079" y="0" width="317" height="505" frameX="-19" frameY="0" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="CT Idle0010" x="3079" y="0" width="317" height="505" frameX="-19" frameY="0" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="CT Idle0011" x="3079" y="0" width="317" height="505" frameX="-19" frameY="0" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="CT Idle0012" x="3079" y="0" width="317" height="505" frameX="-19" frameY="0" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="CT Idle0013" x="3079" y="0" width="317" height="505" frameX="-19" frameY="0" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="CT Idle0014" x="3079" y="0" width="317" height="505" frameX="-19" frameY="0" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="CT Idle Twitch0000" x="3396" y="0" width="402" height="544" frameX="-6" frameY="0" frameWidth="408" frameHeight="545"/>
+	<SubTexture name="CT Idle Twitch0001" x="0" y="544" width="344" height="509" frameX="-38" frameY="-35" frameWidth="408" frameHeight="545"/>
+	<SubTexture name="CT Idle Twitch0002" x="344" y="544" width="374" height="524" frameX="-22" frameY="-21" frameWidth="408" frameHeight="545"/>
+	<SubTexture name="CT Idle Twitch0003" x="718" y="544" width="343" height="502" frameX="-32" frameY="-43" frameWidth="408" frameHeight="545"/>
+	<SubTexture name="CT Idle Twitch0004" x="1061" y="544" width="384" height="512" frameX="0" frameY="-33" frameWidth="408" frameHeight="545"/>
+	<SubTexture name="CT Idle Twitch0005" x="1445" y="544" width="378" height="497" frameX="0" frameY="-48" frameWidth="408" frameHeight="545"/>
+	<SubTexture name="CT Idle Twitch0006" x="1823" y="544" width="330" height="498" frameX="-42" frameY="-46" frameWidth="408" frameHeight="545"/>
+	<SubTexture name="CT Idle Twitch0007" x="1823" y="544" width="330" height="498" frameX="-42" frameY="-46" frameWidth="408" frameHeight="545"/>
+	<SubTexture name="CT Idle Twitch0008" x="2153" y="544" width="317" height="504" frameX="-50" frameY="-40" frameWidth="408" frameHeight="545"/>
+	<SubTexture name="CT Idle Twitch0009" x="3079" y="0" width="317" height="505" frameX="-50" frameY="-39" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="CT Idle Twitch0010" x="3079" y="0" width="317" height="505" frameX="-50" frameY="-39" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="CT Idle Twitch0011" x="3079" y="0" width="317" height="505" frameX="-50" frameY="-39" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="CT Idle Twitch0012" x="3079" y="0" width="317" height="505" frameX="-50" frameY="-39" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="CT Idle Twitch0013" x="3079" y="0" width="317" height="505" frameX="-50" frameY="-39" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="CT Idle Twitch0014" x="3079" y="0" width="317" height="505" frameX="-50" frameY="-39" frameWidth="347" frameHeight="506"/>
+	<SubTexture name="CT Left0000" x="2470" y="544" width="425" height="505" frameX="0" frameY="-14" frameWidth="443" frameHeight="519"/>
+	<SubTexture name="CT Left0001" x="2470" y="544" width="425" height="505" frameX="0" frameY="-14" frameWidth="443" frameHeight="519"/>
+	<SubTexture name="CT Left0002" x="2895" y="544" width="424" height="507" frameX="-8" frameY="-12" frameWidth="443" frameHeight="519"/>
+	<SubTexture name="CT Left0003" x="2895" y="544" width="424" height="507" frameX="-8" frameY="-12" frameWidth="443" frameHeight="519"/>
+	<SubTexture name="CT Left0004" x="3319" y="544" width="413" height="519" frameX="-26" frameY="0" frameWidth="443" frameHeight="519"/>
+	<SubTexture name="CT Left0005" x="3319" y="544" width="413" height="519" frameX="-26" frameY="0" frameWidth="443" frameHeight="519"/>
+	<SubTexture name="CT Left0006" x="0" y="1068" width="400" height="477" frameX="-43" frameY="-42" frameWidth="443" frameHeight="519"/>
+	<SubTexture name="CT Left0007" x="0" y="1068" width="400" height="477" frameX="-43" frameY="-42" frameWidth="443" frameHeight="519"/>
+	<SubTexture name="CT Left0008" x="400" y="1068" width="390" height="477" frameX="-53" frameY="-42" frameWidth="443" frameHeight="519"/>
+	<SubTexture name="CT Left0009" x="400" y="1068" width="390" height="477" frameX="-53" frameY="-42" frameWidth="443" frameHeight="519"/>
+	<SubTexture name="CT Left0010" x="790" y="1068" width="390" height="477" frameX="-53" frameY="-42" frameWidth="443" frameHeight="519"/>
+	<SubTexture name="CT Left0011" x="790" y="1068" width="390" height="477" frameX="-53" frameY="-42" frameWidth="443" frameHeight="519"/>
+	<SubTexture name="CT Left0012" x="790" y="1068" width="390" height="477" frameX="-53" frameY="-42" frameWidth="443" frameHeight="519"/>
+	<SubTexture name="CT Left0013" x="790" y="1068" width="390" height="477" frameX="-53" frameY="-42" frameWidth="443" frameHeight="519"/>
+	<SubTexture name="CT Left0014" x="790" y="1068" width="390" height="477" frameX="-53" frameY="-42" frameWidth="443" frameHeight="519"/>
+	<SubTexture name="CT Right0000" x="1180" y="1068" width="505" height="481" frameX="0" frameY="-2" frameWidth="505" frameHeight="483"/>
+	<SubTexture name="CT Right0001" x="1180" y="1068" width="505" height="481" frameX="0" frameY="-2" frameWidth="505" frameHeight="483"/>
+	<SubTexture name="CT Right0002" x="1685" y="1068" width="486" height="479" frameX="0" frameY="-4" frameWidth="505" frameHeight="483"/>
+	<SubTexture name="CT Right0003" x="1685" y="1068" width="486" height="479" frameX="0" frameY="-4" frameWidth="505" frameHeight="483"/>
+	<SubTexture name="CT Right0004" x="2171" y="1068" width="470" height="483" frameX="0" frameY="0" frameWidth="505" frameHeight="483"/>
+	<SubTexture name="CT Right0005" x="2171" y="1068" width="470" height="483" frameX="0" frameY="0" frameWidth="505" frameHeight="483"/>
+	<SubTexture name="CT Right0006" x="2641" y="1068" width="457" height="482" frameX="0" frameY="-1" frameWidth="505" frameHeight="483"/>
+	<SubTexture name="CT Right0007" x="2641" y="1068" width="457" height="482" frameX="0" frameY="-1" frameWidth="505" frameHeight="483"/>
+	<SubTexture name="CT Right0008" x="3098" y="1068" width="456" height="483" frameX="0" frameY="0" frameWidth="505" frameHeight="483"/>
+	<SubTexture name="CT Right0009" x="3098" y="1068" width="456" height="483" frameX="0" frameY="0" frameWidth="505" frameHeight="483"/>
+	<SubTexture name="CT Right0010" x="3098" y="1068" width="456" height="483" frameX="0" frameY="0" frameWidth="505" frameHeight="483"/>
+	<SubTexture name="CT Right0011" x="3098" y="1068" width="456" height="483" frameX="0" frameY="0" frameWidth="505" frameHeight="483"/>
+	<SubTexture name="CT Right0012" x="3098" y="1068" width="456" height="483" frameX="0" frameY="0" frameWidth="505" frameHeight="483"/>
+	<SubTexture name="CT Right0013" x="3098" y="1068" width="456" height="483" frameX="0" frameY="0" frameWidth="505" frameHeight="483"/>
+	<SubTexture name="CT Right0014" x="3098" y="1068" width="456" height="483" frameX="0" frameY="0" frameWidth="505" frameHeight="483"/>
+	<SubTexture name="CT Up0000" x="3554" y="1068" width="344" height="793" frameX="-14" frameY="0" frameWidth="370" frameHeight="793"/>
+	<SubTexture name="CT Up0001" x="3554" y="1068" width="344" height="793" frameX="-14" frameY="0" frameWidth="370" frameHeight="793"/>
+	<SubTexture name="CT Up0002" x="0" y="1861" width="351" height="780" frameX="-10" frameY="-13" frameWidth="370" frameHeight="793"/>
+	<SubTexture name="CT Up0003" x="0" y="1861" width="351" height="780" frameX="-10" frameY="-13" frameWidth="370" frameHeight="793"/>
+	<SubTexture name="CT Up0004" x="351" y="1861" width="353" height="757" frameX="-9" frameY="-35" frameWidth="370" frameHeight="793"/>
+	<SubTexture name="CT Up0005" x="351" y="1861" width="353" height="757" frameX="-9" frameY="-35" frameWidth="370" frameHeight="793"/>
+	<SubTexture name="CT Up0006" x="704" y="1861" width="370" height="734" frameX="0" frameY="-58" frameWidth="370" frameHeight="793"/>
+	<SubTexture name="CT Up0007" x="704" y="1861" width="370" height="734" frameX="0" frameY="-58" frameWidth="370" frameHeight="793"/>
+	<SubTexture name="CT Up0008" x="1074" y="1861" width="358" height="734" frameX="-6" frameY="-58" frameWidth="370" frameHeight="793"/>
+	<SubTexture name="CT Up0009" x="1074" y="1861" width="358" height="734" frameX="-6" frameY="-58" frameWidth="370" frameHeight="793"/>
+	<SubTexture name="CT Up0010" x="1074" y="1861" width="358" height="734" frameX="-6" frameY="-58" frameWidth="370" frameHeight="793"/>
+	<SubTexture name="CT Up0011" x="1074" y="1861" width="358" height="734" frameX="-6" frameY="-58" frameWidth="370" frameHeight="793"/>
+	<SubTexture name="CT Up0012" x="1074" y="1861" width="358" height="734" frameX="-6" frameY="-58" frameWidth="370" frameHeight="793"/>
+	<SubTexture name="CT Up0013" x="1074" y="1861" width="358" height="734" frameX="-6" frameY="-58" frameWidth="370" frameHeight="793"/>
+	<SubTexture name="CT Up0014" x="1074" y="1861" width="358" height="734" frameX="-6" frameY="-58" frameWidth="370" frameHeight="793"/>
+</TextureAtlas>
